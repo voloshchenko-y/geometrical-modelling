@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.vs/
+.claude/
+*.mp4
+*.docx
